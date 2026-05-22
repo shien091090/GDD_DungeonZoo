@@ -180,8 +180,9 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "8ccb8bb9dfe541ce",
+  "active": "2da60899b91d9c78",
   "lastOpenFiles": [
+    "image/dungeon_crawl.png",
     "temp/AI參考圖/game_play.png",
     "temp/AI參考圖/Gemini_Generated_Image_7y2cwk7y2cwk7y2c.png",
     "temp/AI參考圖",
@@ -211,7 +212,6 @@
     "主堡.md",
     "big_map.png",
     "game_play.png",
-    "add_soul_component_slot.png",
     "monster_attacking_main_castle2.aseprite",
     "靜態單位.md",
     "進攻波次.md",
