@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本設計(地下城探索).md",
+                "file": "大地圖場景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本設計(地下城探索)"
+              "title": "大地圖場景"
             }
           }
         ]
@@ -180,25 +180,38 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "2da60899b91d9c78",
+  "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
+    "地下城進入預覽頁面.md",
+    "大地圖場景.md",
+    "基本設計(地下城探索).md",
+    "README.md",
+    "研究所.md",
+    "魔物行為與戰鬥.md",
+    "基本設計(動物園經營).md",
+    "互動式收集物件.md",
+    "地下城層級切換.md",
+    "地下城小地圖.md",
+    "特殊地形.md",
+    "玩家角色.md",
+    "戰利品.md",
+    "捕獲.md",
+    "採集.md",
+    "temp/AI參考圖/dungeon_crawl.png",
+    "temp/AI參考圖/Gemini_Generated_Image_1ch4931ch4931ch4.png",
+    "temp/草稿/dungeon_crawl_plunder_ui_2.png",
+    "temp/草稿/dungeon_crawl_plunder_ui_1.png",
+    "temp/AI參考圖/ChatGPT Image 2026年5月22日 下午10_45_19.png",
+    "image/zoo_management.png",
+    "級別.md",
     "image/dungeon_crawl.png",
     "temp/AI參考圖/game_play.png",
     "temp/AI參考圖/Gemini_Generated_Image_7y2cwk7y2cwk7y2c.png",
     "temp/AI參考圖",
     "temp/新增資料夾",
-    "大地圖.md",
-    "級別.md",
-    "README.md",
-    "基本設計(地下城探索).md",
     "temp/草稿/dungeon_crawl.png",
-    "image/來動物園看一點大場面.png",
-    "image/dungeon_enter_preview_panel.png",
-    "image/big_map.png",
     "image",
     "新增資料夾",
-    "temp/草稿/dungeon_enter_preview_panel.png",
-    "temp/草稿/big_map.png",
     "temp/草稿",
     "temp",
     "未命名.canvas",
@@ -210,13 +223,9 @@
     "怪物(敵方單位).md",
     "我方和中立單位.md",
     "主堡.md",
-    "big_map.png",
-    "game_play.png",
     "monster_attacking_main_castle2.aseprite",
     "靜態單位.md",
     "進攻波次.md",
-    "移動單位.md",
-    "概述.md",
     "未命名",
     "未命名 1.canvas",
     "未命名.base"
