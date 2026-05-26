@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大地圖場景.md",
+                "file": "地下城進入預覽頁面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大地圖場景"
+              "title": "地下城進入預覽頁面"
             }
           }
         ]
@@ -182,11 +182,12 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
-    "地下城互動式收集物件.md",
+    "級別.md",
+    "地下城進入預覽頁面.md",
     "大地圖場景.md",
     "地下城小地圖.md",
+    "地下城互動式收集物件.md",
     "地下城特殊地形.md",
-    "地下城進入預覽頁面.md",
     "基本設計(地下城探索).md",
     "README.md",
     "研究所.md",
@@ -203,7 +204,6 @@
     "temp/草稿/dungeon_crawl_plunder_ui_1.png",
     "temp/AI參考圖/ChatGPT Image 2026年5月22日 下午10_45_19.png",
     "image/zoo_management.png",
-    "級別.md",
     "image/dungeon_crawl.png",
     "temp/AI參考圖/game_play.png",
     "temp/AI參考圖/Gemini_Generated_Image_7y2cwk7y2cwk7y2c.png",
