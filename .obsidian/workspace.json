@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地下城進入預覽頁面.md",
+                "file": "動物園進入預覽頁面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地下城進入預覽頁面"
+              "title": "動物園進入預覽頁面"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
+    "地下城進入預覽頁面.md",
     "基本設計(地下城探索).md",
     "動物園進入預覽頁面.md",
-    "地下城進入預覽頁面.md",
     "基本設計(動物園經營).md",
     "級別.md",
     "image/zoo_zone_enter_preview_panel.png",
