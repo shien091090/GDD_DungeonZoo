@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地下城層級切換.md",
+                "file": "魔物行為與戰鬥.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地下城層級切換"
+              "title": "魔物行為與戰鬥"
             }
           }
         ]
@@ -182,6 +182,13 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
+    "image/dungeon_crawl_monster_behaviour_3.png",
+    "temp/AI參考圖/dungeon_crawl_2.png",
+    "temp/AI參考圖/Gemini_Generated_Image_1x68f11x68f11x68.png",
+    "temp/AI參考圖/dungeon_crawl_1.png",
+    "image/dungeon_crawl_monster_behaviour_2.png",
+    "image/dungeon_crawl_monster_behaviour_1.png",
+    "地下城層級切換.md",
     "image/dungeon_crawl_floor_switching.png",
     "image/floor switching.png",
     "image/image-removebg-preview (6).png",
@@ -197,20 +204,13 @@
     "採集.md",
     "級別.md",
     "捕獲.md",
-    "image/dungeon_crawl_capture_monster.png",
-    "image/dungeon_crawl_Capture_monster.png",
-    "image/dungeon_crawl_get_.png",
-    "image/Gemini_Generated_Image_98bkgq98bkgq98bk.png",
-    "image/zoo_zone_enter_preview_panel.png",
     "動物園進入預覽頁面.md",
     "地下城進入預覽頁面.md",
-    "image/來動物園看一點大場面.png",
     "大地圖場景.md",
     "大地圖.md",
     "研究所.md",
     "戰利品.md",
     "地下城特殊地形.md",
-    "地下城層級切換.md",
     "temp/AI參考圖",
     "temp/新增資料夾",
     "image",
