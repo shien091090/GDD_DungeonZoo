@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地下城小地圖.md",
+                "file": "地下城層級切換.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地下城小地圖"
+              "title": "地下城層級切換"
             }
           }
         ]
@@ -182,7 +182,13 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
+    "image/dungeon_crawl_floor_switching.png",
+    "image/floor switching.png",
+    "image/image-removebg-preview (6).png",
     "README.md",
+    "基本設計(動物園經營).md",
+    "基本設計(地下城探索).md",
+    "魔物行為與戰鬥.md",
     "地下城小地圖.md",
     "地下城互動式收集物件.md",
     "image/dungeon_crawl_get_item_from_chest.png",
@@ -195,19 +201,14 @@
     "image/dungeon_crawl_Capture_monster.png",
     "image/dungeon_crawl_get_.png",
     "image/Gemini_Generated_Image_98bkgq98bkgq98bk.png",
-    "基本設計(地下城探索).md",
     "image/zoo_zone_enter_preview_panel.png",
     "動物園進入預覽頁面.md",
     "地下城進入預覽頁面.md",
     "image/來動物園看一點大場面.png",
     "大地圖場景.md",
-    "image/dungeon_enter_preview_panel_2.png",
-    "image/dungeon_enter_preview_panel_1.png",
     "大地圖.md",
-    "魔物行為與戰鬥.md",
     "研究所.md",
     "戰利品.md",
-    "基本設計(動物園經營).md",
     "地下城特殊地形.md",
     "地下城層級切換.md",
     "temp/AI參考圖",
