@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基本設計(動物園經營).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "基本設計(動物園經營) 的反向連結"
             }
           },
           {
@@ -166,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -182,9 +183,10 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
-    "基本設計(地下城探索).md",
-    "基本設計(動物園經營).md",
     "README.md",
+    "基本設計(動物園經營).md",
+    "魔物行為與戰鬥.md",
+    "基本設計(地下城探索).md",
     "動物園檢視模式切換.md",
     "地下城特殊地形.md",
     "地下城層級切換.md",
@@ -200,7 +202,6 @@
     "image/dungeon_crawl_gather.png",
     "動物園進入預覽頁面.md",
     "採集.md",
-    "魔物行為與戰鬥.md",
     "image/dungeon_crawl_monster_behaviour_3.png",
     "temp/AI參考圖/dungeon_crawl_2.png",
     "temp/AI參考圖/Gemini_Generated_Image_1x68f11x68f11x68.png",
