@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待分發魔物列表UI.md",
+                "file": "動物園展區.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "待分發魔物列表UI"
+              "title": "動物園展區"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "待分發",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,25 +183,26 @@
   },
   "active": "8ccb8bb9dfe541ce",
   "lastOpenFiles": [
+    "展示魔物.md",
+    "動物園展區.md",
     "動物園破產.md",
+    "展示區管理頁面.md",
+    "README.md",
+    "基本設計(動物園經營).md",
+    "動物園進入預覽頁面.md",
     "待分發魔物列表UI.md",
     "image/zoo_monster_holding_area_ui_with_sell_button.png",
     "image/zoo_monster_holding_hint.png",
-    "展示魔物.md",
     "image/zoo_monster_holding_area_ui.png",
     "temp/草稿/zoo_monster_holding_area_ui.png",
-    "基本設計(動物園經營).md",
     "營業時間與流速控制按鈕.md",
-    "README.md",
     "地下城結算.md",
     "戰利品.md",
     "基本設計(地下城探索).md",
     "image/zoo_sell_monster_icon_tag.png",
     "image/zoo_bankruptcy.png",
     "動物園建設.md",
-    "動物園展區.md",
     "動物園等級與升級按鈕.md",
-    "展示區管理頁面.md",
     "營運幣與名聲.md",
     "動物園結算.md",
     "image/zoo_settle_ui.png",
@@ -215,7 +215,6 @@
     "動物園檢視模式切換.md",
     "動物園名稱及編輯按鈕.md",
     "image/來動物園看一點大場面 (1).png.~tmp",
-    "動物園進入預覽頁面.md",
     "地下城層級切換.md",
     "捕獲.md",
     "研究所.md",
